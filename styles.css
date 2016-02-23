@@ -129,8 +129,8 @@ footer {
 
 /* Red Corgi */
 
-.corgi-red .st0 {
-	fill:#B2711B;  /*coat*/
+.corgi-red--coat {
+  fill:#B2711B;
 }
 
 .corgi-red .st1 {
@@ -146,7 +146,7 @@ footer {
 }
 				
 /* Fawn Corgi  */
-.corgi-fawn .st0 {
+.corgi-fawn--coat {
 	fill: #EAD6B4;  /*coat*/
 }
 
@@ -163,7 +163,7 @@ footer {
 }
 
 /* Sable Corgi  */
-.corgi-sable .st0 {
+.corgi-sable--coat {
 	fill: #966A3B;  /*coat*/
 }
 
@@ -180,12 +180,12 @@ footer {
 }
 
 /* Blacktan Corgi  */
+
+.corgi-blacktan--coat {
+	fill: #7C7272; 
+}
 .corgi-blacktan .st0 {
 	fill: #BA8058;
-}
-
-.corgi-blacktan .st1 {
-	fill: #7C7272; /*coat*/
 }
 
 .corgi-blacktan .st2 {
