@@ -32,9 +32,9 @@ a {
   }
   /* nav icon hover*/
   a:hover svg {
-    fill: #111; 
+    fill: #111;
   }
-	
+
 
 header {
   padding-top: 10px;
@@ -81,9 +81,10 @@ footer {
 
 /* Logo styles */
 
-.logo {
-	width: 50%;
-}
+/*.logo {
+	height: 120px;
+  width: 140px;
+}*/
 
 .logo-text {
 	fill:#EAAA7F;
@@ -93,7 +94,7 @@ footer {
 .logo .st0{
 	fill:#BA8058;
 }
-					
+
 .logo .st2{
 	fill:#F4C6A6;
 }
@@ -115,7 +116,7 @@ footer {
 }
 
 .heart-icon {
-  margin-right: 5px; 
+  margin-right: 5px;
 }
 
 /* Set height width of dog svgs*/
@@ -145,10 +146,10 @@ footer {
 .corgi-red .st3 {
 	fill:#EAAA7F;
 }
-				
+
 /* Fawn Corgi  */
 .corgi-fawn--coat {
-	fill: #EAD6B4; 
+	fill: #EAD6B4;
 }
 
 .corgi-fawn .st1 {
@@ -165,7 +166,7 @@ footer {
 
 /* Sable Corgi  */
 .corgi-sable--coat {
-	fill: #966A3B; 
+	fill: #966A3B;
 }
 
 .corgi-sable .st1 {
@@ -183,7 +184,7 @@ footer {
 /* Blacktan Corgi  */
 
 .corgi-blacktan--coat {
-	fill: #7C7272; 
+	fill: #7C7272;
 }
 .corgi-blacktan .st0 {
 	fill: #BA8058;
@@ -205,10 +206,5 @@ footer {
 
 	.logo-text {
 		opacity: 1;
-	}
-	
-	.logo {
-		width: 30%;
-		
 	}
 }
